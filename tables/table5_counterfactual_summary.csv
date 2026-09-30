@@ -1,0 +1,4 @@
+scenario,mean_life_extension,median_life_extension,mean_net_benefit_usd,pct_units_positive_benefit
+Early repair (50% of life),13.8,7.0,44071.5,100.0
+Late repair (85% of life),22.8,21.0,45421.5,100.0
+Mid repair (70% of life),17.5,15.0,44620.5,100.0

@@ -1,0 +1,6 @@
+Metric,Value
+"CV RMSE (train, 5-fold GroupKFold)",18.03
+Test RMSE,18.87
+Test MAE,13.62
+Test R2,0.794
+NASA PHM08 Score (lower=better),1044.1

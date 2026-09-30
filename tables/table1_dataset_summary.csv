@@ -1,0 +1,12 @@
+Metric,Value
+Training engine units,100.0
+Test engine units,100.0
+Training rows (cycle snapshots),20631.0
+Test rows (cycle snapshots),13096.0
+Sensors recorded,21.0
+Informative sensors (non-constant),14.0
+Operating conditions,1.0
+Fault modes,1.0
+Min cycles to failure (train),128.0
+Max cycles to failure (train),362.0
+Mean cycles to failure (train),206.3
