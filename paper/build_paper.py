@@ -674,9 +674,9 @@ body.append(title_para(TITLE))
 body.append(centered_line("[Author Name(s) \u2014 to be completed]", sz='22'))
 body.append(centered_line("Department / Affiliation, City, Country", sz='20', italic=True))
 body.append(centered_line("email@example.com", sz='20'))
+body.append(SECTION_BREAK_1COL)
 body.append(abstract_para(ABSTRACT))
 body.append(keywords_para(KEYWORDS))
-body.append(SECTION_BREAK_1COL)
 
 # --- I. INTRODUCTION ---
 body.append(section_heading("I. INTRODUCTION"))
